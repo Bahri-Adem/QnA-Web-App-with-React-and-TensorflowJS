@@ -22,7 +22,7 @@ To run this application locally, follow these steps:
    ```bash
    npm install
 
-3.Run the application:
+3. Run the application:
 
    ```bash
    npm start
