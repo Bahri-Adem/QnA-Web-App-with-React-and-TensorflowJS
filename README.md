@@ -16,11 +16,12 @@ To run this application locally, follow these steps:
 
    ```bash
    git clone https://github.com/Bahri-Adem/QnA-Web-App-with-React-and-TensorflowJS.git
+```
 2. Install dependencies:
 
    ```bash
    npm install
-
+```
 3.Run the application:
 
    ```bash
@@ -29,15 +30,15 @@ To run this application locally, follow these steps:
 
 ## Usage
 
-- **Upon running the application, a TensorFlow.js QnA model is loaded.
-- **Once the model is loaded, users can input a passage of text into the provided textarea.
-- **Users can then ask questions related to the provided passage in the input field labeled "Ask a Question" and press Enter.
-- **The application processes the question using the loaded model and displays answers along with their corresponding scores.
+- Upon running the application, a TensorFlow.js QnA model is loaded.
+- Once the model is loaded, users can input a passage of text into the provided textarea.
+- Users can then ask questions related to the provided passage in the input field labeled "Ask a Question" and press Enter.
+- The application processes the question using the loaded model and displays answers along with their corresponding scores.
 
 ## functionalities
 
-- **Loading the TensorFlow.js QnA model.
-- **Handling user input for passage and questions.
-- **Processing questions and providing answers using the loaded model.
-- **Displaying the passage, input fields for questions, and showing answers.
+- Loading the TensorFlow.js QnA model.
+- Handling user input for passage and questions.
+- Processing questions and providing answers using the loaded model.
+- Displaying the passage, input fields for questions, and showing answers.
 
