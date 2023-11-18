@@ -16,13 +16,11 @@ To run this application locally, follow these steps:
 
    ```bash
    git clone https://github.com/Bahri-Adem/QnA-Web-App-with-React-and-TensorflowJS.git
-```
 
 2. Install dependencies:
 
    ```bash
    npm install
-```
 
 3.Run the application:
 
