@@ -2,6 +2,9 @@
 
 This project is a simple Question and Answer (QnA) web application developed using React and TensorFlow.js. The application allows users to input a passage of text and ask questions related to the provided passage. The underlying TensorFlow.js QnA model processes the input and generates answers based on the questions asked.
 
+![image](https://github.com/Bahri-Adem/QnA-Web-App-with-React-and-TensorflowJS/assets/103949052/a6d26d56-5a93-426e-8c24-c8dbc3615833)
+
+
 ## Dependencies
 
 - **@tensorflow/tfjs**: TensorFlow.js library for machine learning in JavaScript.
