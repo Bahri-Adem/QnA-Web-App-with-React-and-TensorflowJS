@@ -29,7 +29,7 @@ To run this application locally, follow these steps:
 
    ```bash
    npm start
-```
+
 
 ## Usage
 
